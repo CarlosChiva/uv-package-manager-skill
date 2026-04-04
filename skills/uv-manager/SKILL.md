@@ -3,8 +3,8 @@ name: uv-manager
 description: give information about how to use uv package manager 
 license: MIT
 metadata:
-  author: dread
-  repository: "https://github.com/CarlosChiva/agent-skills"
+  author: "dread"
+  repository: "https://github.com/CarlosChiva/uv-package-manager-skill"
   version: "1.0.0"
   keywords: "ai, agent, skill"
 ---
