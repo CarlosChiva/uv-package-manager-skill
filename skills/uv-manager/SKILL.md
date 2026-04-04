@@ -1,14 +1,32 @@
-# uv Skill
+---
+name: uv-manager
+description: give information about how to use uv package manager 
+license: MIT
+metadata:
+  author: dread
+  repository: "https://github.com/CarlosChiva/agent-skills"
+  version: "1.0.0"
+  keywords: "ai, agent, skill"
+---
 
-**How to use uv (the Python package manager) for all Python package management, environment management, project workflows, building, and publishing tasks. Use this skill whenever the user mentions uv, Python packages, dependencies, virtual environments, pyproject.toml, or wants to install/manage Python projects.**
 
-uv is an extremely fast Python package manager written in Rust that replaces pip, pip-tools, pipx, poetry, pyenv, twine, and virtualenv. It's 10-100x faster than traditional tools.
+# UV Skill
+
+This Skill provide information about how to use UV package manager
+
+## When to Use This Skill
+When there are some task or use of uv package manager.
+
+## What does it serve for?
+
+How to use uv (the Python package manager) for all Python package management, environment management, project workflows, building, and publishing tasks. Use this skill whenever the user mentions uv, Python packages, dependencies, virtual environments, pyproject.toml, or wants to install/manage Python projects.**
+
 
 ---
 
 ## References
 
-Detailed documentation is organized in the `references/` directory:
+Depends on the type of command you need about uv:
 
 - [01-quick-start.md](references/01-quick-start.md) - Installation and common workflows
 - [02-project-management.md](references/02-project-management.md) - init, add, remove, sync, lock, export, tree, version, audit, format
