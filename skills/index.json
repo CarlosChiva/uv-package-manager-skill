@@ -1,0 +1,9 @@
+{
+  "skills": [
+    {
+      "name": "uv-manager",
+      "description": "Have information how to use uv package manager",
+      "files": ["SKILL.md"]
+    }
+  ]
+}
