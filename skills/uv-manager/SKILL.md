@@ -17,6 +17,7 @@ This Skill provide information about how to use UV package manager
 ## When to Use This Skill
 When there are some task or use of uv package manager.
 
+
 ## What does it serve for?
 
 How to use uv (the Python package manager) for all Python package management, environment management, project workflows, building, and publishing tasks. Use this skill whenever the user mentions uv, Python packages, dependencies, virtual environments, pyproject.toml, or wants to install/manage Python projects.**
