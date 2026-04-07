@@ -21,9 +21,6 @@ When there are some task or use of uv package manager.
 
 How to use uv (the Python package manager) for all Python package management, environment management, project workflows, building, and publishing tasks. Use this skill whenever the user mentions uv, Python packages, dependencies, virtual environments, pyproject.toml, or wants to install/manage Python projects.**
 
-
----
-
 ## References
 
 Depends on the type of command you need about uv:
