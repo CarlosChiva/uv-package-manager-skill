@@ -1,6 +1,6 @@
 ---
 name: uv-manager
-description: give information about how to use uv package manager 
+description: Use when working with Python projects that use uv for dependency management, virtual environments, project initialization, or package publishing. Covers setup, workflows, and best practices for uv-based projects. 
 license: MIT
 metadata:
   author: "dread"

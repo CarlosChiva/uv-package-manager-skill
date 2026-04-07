@@ -10,7 +10,7 @@ Agent Skills are folders of instructions, scripts, and resources that agents can
 <!-- START:Available-Skills -->
 | Skill | Description |
 | ----- | ----------- |
-| [uv-manager](./skills/uv-manager) | give information about how to use uv package manager |
+| [uv-manager](./skills/uv-manager) | Use when working with Python projects that use uv for dependency management, ... |
 <!-- END:Available-Skills -->
 
 ## Installation
